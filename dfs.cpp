@@ -21,7 +21,7 @@ typedef vector<I> VI; //vector of ints
 
 typedef vector<char> VC; //vecotr of chars
 
-
+//TEST TEST TEST
 
 void dfsVisit(int currentNode, VI &parents, VC &colors, const VVI AdjList) {
     colors[currentNode] = 'G';
